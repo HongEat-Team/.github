@@ -1,1 +1,1 @@
-<img width="986" alt="홍잇" src="https://user-images.githubusercontent.com/62806067/234520634-eb58855b-e680-4f53-8c61-dc97a6868bfd.png">
+<img width="1095" alt="image" src="https://github.com/HongEat-Team/.github/assets/62806067/e05a1595-214e-4a74-a875-10697f30bea3">
